@@ -1,3 +1,6 @@
 [submodule "digiTwin"]
 	path = digiTwin
 	url = https://github.com/schreiberpaul/digiTwin
+[submodule "SDWAN"]
+	path = SDWAN
+	url = https://github.com/m-niklas19/Evernet-Software-Defined-Wan-for-Multiple-Mesh-Uplinks

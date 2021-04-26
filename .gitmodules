@@ -7,3 +7,6 @@
 [submodule "UNIcert"]
 	path = UNIcert
 	url = https://github.com/Ragosh/UNIcert-Client-Projekt
+[submodule "workadv_NDH"]
+	path = workadv_NDH
+	url = https://github.com/ginhavana/Workadventure-Nordhausen

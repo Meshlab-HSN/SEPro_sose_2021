@@ -1,0 +1,3 @@
+[submodule "digiTwin"]
+	path = digiTwin
+	url = https://github.com/schreiberpaul/digiTwin
